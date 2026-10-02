@@ -12,5 +12,5 @@ Topics Covered
 
 1. Installation of JDK 21 and sts (also known as Spring Tools for Eclipes).
 2. Constructors, static block, instance bock, classes and objects, how to invoke a object.
-3. inheritance using extend keyword.
+3. inheritance using extends keyword.
 4. polymorphism - methord overloading and overriding concepts.
